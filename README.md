@@ -9,14 +9,14 @@ Emotion detection for a popular children TV show using multiple NLP approaches, 
 ### Presentation preview
 Following are some slides taken from the powerpoint presentation used to present the study keypoints.
 
-![slide1](image1.png)
+![slide1](images/image1.png)
 
-![slide1](image15.png)
+![slide1](images/image15.png)
 
-![slide1](image2.png)
+![slide1](images/image2.png)
 
-![slide1](image3.png)
+![slide1](images/image3.png)
 
-![slide1](image4.png)
+![slide1](images/image4.png)
 
-![slide1](image5.png)
+![slide1](images/image5.png)
